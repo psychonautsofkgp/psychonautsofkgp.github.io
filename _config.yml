@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
+title:          "Psychonauts of KGP"
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+baseurl:        ""
+url:            ""
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: UA-146650501-1
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         "Psychonauts of KGP"
+  url:          "https://psychonautsofkgp.github.io"
+  email:        psychonautsofkgp@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -35,4 +35,4 @@ permalink:      /:year-:month-:day/:title
 paginate:       5
 
 # Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec, CODE_OF_CONDUCT.md, README.md ]
